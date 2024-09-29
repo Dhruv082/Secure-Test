@@ -1,8 +1,7 @@
-# ProctoAI-MERN
+# SecureTest
 
-ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
+SecureTest is an Automated Exam Proctoring System (AEPS) developed with cutting-edge AI-based algorithms for online exams. This comprehensive system is designed to ensure the integrity and security of online examinations. The project leverages technologies such as React.js, Redux, Node.js, and TensorFlow.js to offer a feature-rich exam proctoring solution.
 
-![ProctoAI-MERN](readme-images/proctoai-mern.jpg)
 
 ## Table of Contents
 
@@ -32,7 +31,7 @@ ProctoAI-MERN is an Automated Exam Proctoring System (AEPS) developed with cutti
 
 ## Tech Stack
 
-ProctoAI-MERN utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
+SecureTest utilizes a range of technologies to provide its comprehensive functionality. The key technologies and dependencies used in this project include:
 
 ### Backend
 
@@ -98,76 +97,6 @@ ProctoAI-MERN utilizes a range of technologies to provide its comprehensive func
 
 - Creation of a unified portal for users to log in, access question papers, open a chat window for communication with the examiner, and upload answer sheets via an integrated scanner within the portal.
 
-## Project Screenshots
-
-### Login Page
-
-- #### Student
-
-![Login Page](readme-images/login-page-student.jpg)
-
-- #### Teacher
-
-![Login Page](readme-images/login-page-teacher.jpg)
-
-### Dashboard
-
-- #### Student
-
-![Student Dashboard](readme-images/student-dashboard.jpg)
-
-- #### Teacher
-
-![Teacher Dashboard](readme-images/teacher-dashboard.jpg)
-
-### Creating Exam Feature
-
-- #### Create Exam
-
-![Create Exam](readme-images/create-exam.jpg)
-
-- #### Success
-
-![Create Exam](readme-images/create-exam-success.jpg)
-
-- #### Create Questions
-
-![Create Questions](readme-images/create-question.jpg)
-
-### Exam Page
-
-![Exam Page](readme-images/exam-page.png)
-
-### Cheating Detection During Exam
-
-- Webcam capture is hidden due to privacy reasons, with a black box covering the video feed.
-
-#### Cell Phone Detection
-
-![Cell Phone Detection](readme-images/cell-phone-detection.png)
-
-#### Prohibited Object Detection
-
-![Prohibited Object Detection](readme-images/prohibited-object-detection.jpg)
-
-#### Face Not Visible Detection
-
-![Cell Phone Detection](readme-images/face-not-visible-detection.jpg)
-
-### Test Page
-
-#### Start
-
-![Test Start](readme-images/test-start.jpg)
-
-#### Submitted
-
-![Test Submitted](readme-images/test-submitted.jpg)
-
-### Cheat Log Dashboard
-
-![Cheat Log Dashboard](readme-images/cheat-log-dashboard.png)
-
 More features and improvements are in development and will be included in future updates.
 
 ## How to Run
@@ -181,4 +110,4 @@ To run this project locally, follow these steps:
 
 ## Contributors
 
-- [Mohd Zubair](https://github.com/mohdzubairshafi)
+- [Dhruv Sharma](https://github.com/Dhruv082)
